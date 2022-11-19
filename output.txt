@@ -1,0 +1,10 @@
+FileName: ./inference_images/001184.png - Predicted Class: 2.0 mm x 26 mm
+FileName: ./inference_images/001185.png - Predicted Class: 2.0 mm x 26 mm
+FileName: ./inference_images/001181.png - Predicted Class: 2.0 mm x 26 mm
+FileName: ./inference_images/001182.png - Predicted Class: 2.0 mm x 26 mm
+FileName: ./inference_images/001183.png - Predicted Class: 2.0 mm x 26 mm
+
+
+Printing table for each class found and number of images associated with the class
+====================================================
+Class Name: 2.0 mm x 26 mm - Number of examples predicted: 5
