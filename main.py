@@ -27,7 +27,7 @@ def parse_arguments(parser):
     """
     # Parameters
     parser.add_argument('--mode', type=str, default='test', required=True, choices=['train', 'test'], help='Model Training or Testing')
-    parser.add_argument('--pathToDataset', type=str, default='/home1/adiyer/coding-assessments/neocis/videos_frames/', required=False, help='Dataset folder location')
+    parser.add_argument('--pathToDataset', type=str, default='/home1/adiyer/coding-assessments/company/videos_frames/', required=False, help='Dataset folder location')
     parser.add_argument('--savedModelLocation', type=str, default='./model.pth', required=False, help='Absolute location of trained model.pth')
     parser.add_argument('--numEpochs', type=int, default=1, required=False, help='Number of epochs to train the model for')
     parser.add_argument('--batchSize', type=int, default=32, required=False, help='Batch size for train/val/test')    
