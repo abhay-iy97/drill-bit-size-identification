@@ -10,7 +10,7 @@
     - python 3.9
     - opencv-python
         ```
-        conda create -n neocis-code python=3.9
+        conda create -n env_setup python=3.9
         pip install opencv-python
         conda install pytorch torchvision torchaudio -c pytorch (For MAC only)
         ```
