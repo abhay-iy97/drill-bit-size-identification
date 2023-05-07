@@ -1,4 +1,6 @@
 # Drill bit identification task
+### Problem Statement
+- From the image of a drill bit, identify the drill size. This task has been solved as a supervised learning - classification problem wherein we train the model with different frames and provide it the expected drill sizes. During testing, we provide the frame to the model and predict which drill bit size it belongs to.
 
 ### **Windows executable** - How to run model inference with inference.exe
 - Please place all unseen images in the inference_images directory and execute the inference.exe file
